@@ -1,4 +1,5 @@
 # CALCULATOR
+#calculator #windows #pc #laptop
 A custom engineering calculator built with Python and PyQt5
 This project is a custom-compiled Python desktop application that translates visual, human-readable math into secure, machine-level evaluations using an advanced regex parsing engine.
 
